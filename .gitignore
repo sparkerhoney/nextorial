@@ -1,18 +1,11 @@
 data/
 
 Derivative_variable/
-
-EDA/
-
-model/
-
-obsidian/
-
-tabnet/
-
 theotherfile/
-
-
+EDA/
+model/
+obsidian/
+tabnet/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
