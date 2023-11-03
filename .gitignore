@@ -1,3 +1,19 @@
+data/
+
+Derivative_variable/
+
+EDA/
+
+model/
+
+obsidian/
+
+tabnet/
+
+theotherfile/
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -159,10 +175,3 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-/data/
-/Derivative variable/
-/EDA/
-/model/
-/obsidian/
-/tabnet/
-/the other file/
